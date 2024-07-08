@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+.table4color{
+	color:white;
+	background-color:black;
+	text-align:center
+}
+table,th,td{
+	border:1px solid black;
+	
+}
